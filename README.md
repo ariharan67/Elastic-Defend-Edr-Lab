@@ -10,7 +10,7 @@ I'm using Elastic Defend on Lubuntu to investigate suspicious activity, examine 
 
 The lab uses a Lubuntu endpoint for testing and an Elastic Cloud Serverless project to review security alerts and endpoint events.
 
-
+```
 ┌──────────────────────────────┐
 │       Lubuntu Endpoint       │
 │                              │
@@ -46,7 +46,7 @@ The lab uses a Lubuntu endpoint for testing and an Elastic Cloud Serverless proj
 │                              │
 │    Screenshots and Reports   │
 └──────────────────────────────┘
-
+```
 
 ## What I've Done
 
