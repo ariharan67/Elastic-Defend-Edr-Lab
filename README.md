@@ -36,7 +36,7 @@ The lab uses a Lubuntu endpoint for testing and an Elastic Cloud Serverless proj
 ┌──────────────────────────────┐
 │      Alert Investigation     │
 │                              │
-│  Process and Parent Process   │
+│  Process and Parent Process  │
 │  File Path and Event Details │
 └──────────────┬───────────────┘
                │
